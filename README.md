@@ -11,18 +11,18 @@
  https://tour.nd.edu/locations/grotto-of-our-lady-of-lourdes/
  https://en.wikipedia.org/wiki/Grotto_of_Our_Lady_of_Lourdes,_Notre_Dame
 
-## **Day 3 | St Patrick’s Cathedral**
+## **Day 3 | St Patrick’s Cathedral | 20 years ago**
 
  ![Getting Started](./img/StPatrickCathedral1.jpg)
 
-## **Day 3 | Central Park | Umpire Rock/Rat Rock**
+## **Day 3 | Central Park | Umpire Rock/Rat Rock | 10 years ago**
 
  ![Getting Started](./img/UmpireRock.gif) 
-### 10 years ago – src: http://hudsonvalleygeologist.blogspot.com/2011/03/umpire-rat-rock-in-central-park.html
+### http://hudsonvalleygeologist.blogspot.com/2011/03/umpire-rat-rock-in-central-park.html
 
 ### Q29C+PRJ New York
  
-## **Day 4 | Statue of Liberty**
+## **Day 4 | Statue of Liberty | 20 years ago**
  
   ![Getting Started](./img/Liberty1.jpg)
   ![Getting Started](./img/Liberty2.jpg)
@@ -31,20 +31,20 @@
 Corrosive Seep – 2002.  
 https://www.flickr.com/photos/hink/78790746/in/photolist-2iJc3CE-BNR37B-ARjL4U-53LjhJ-2LnpAd-7XPLk-7XPK9-7XPKy-7XPJR-yQF7Z
  
-## **Day 5| Plymouth Rock**
+## **Day 5| Plymouth Rock | 20 years ago**
 
  ![Getting Started](./img/PlymouthRock1.jpg)
  ![Getting Started](./img/PlymouthRock2.jpg)
  
-## **Day 6 | Nubble Lighthouse**
+## **Day 6 | Nubble Lighthouse | 20 years ago**
  
   ![Getting Started](./img/Nubble.jpg)
  
-## **Day 7 | Old Brick Store | 2009**
+## **Day 7 | Old Brick Store | 14 years ago**
 
  ![Getting Started](./img/OldBrickStore.jpg) 
  
-## **Day 8 | Rock of Ages Quarry**
+## **Day 8 | Rock of Ages Quarry | 20 years ago**
 
  ![Getting Started](./img/RockOfAges.jpg)
  ![Getting Started](./img/RockOfAges2.jpg)
@@ -53,16 +53,16 @@ https://www.hmdb.org/PhotoFullSize.asp?PhotoID=301968
 https://www.hmdb.org/m.asp?m=81271
 
  
-## **Day 9 | Quechee Gorge**
+## **Day 9 | Quechee Gorge | 20 years ago**
 
  ![Getting Started](./img/Quechee.jpg)
  
-## **Day 10 | Niagara Falls**
+## **Day 10 | Niagara Falls | 20 years ago**
  
   ![Getting Started](./img/Niagara1.jpg)
   ![Getting Started](./img/Niagara2.jpg)
   
-## **Day 11 | Frankenmuth – Holz Brucke bridge**
+## **Day 11 | Frankenmuth – Holz Brucke bridge | 5 years ago**
 
 ### 2017
  ![Getting Started](./img/FrankenmuthHolzBrucke2.jpg)
