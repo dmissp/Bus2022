@@ -1,10 +1,12 @@
 ## **Day 2 | Notre Dame | 20 years ago**
  
  ![Getting Started](./img/NotreDame1.jpg)
+ 
  Clarke Memorial Fountain
  https://en.wikipedia.org/wiki/Clarke_Memorial_Fountain
  
  ![Getting Started](./img/NotreDame2.jpg) 
+ 
  Grotto of Our Lady of Lourdes
  https://tour.nd.edu/locations/grotto-of-our-lady-of-lourdes/
  https://en.wikipedia.org/wiki/Grotto_of_Our_Lady_of_Lourdes,_Notre_Dame
@@ -26,7 +28,8 @@
   ![Getting Started](./img/Liberty2.jpg)
   ![Getting Started](./img/Liberty3.jpg)
  
-Corrosive Seep – 2002.  https://www.flickr.com/photos/hink/78790746/in/photolist-2iJc3CE-BNR37B-ARjL4U-53LjhJ-2LnpAd-7XPLk-7XPK9-7XPKy-7XPJR-yQF7Z
+Corrosive Seep – 2002.  
+https://www.flickr.com/photos/hink/78790746/in/photolist-2iJc3CE-BNR37B-ARjL4U-53LjhJ-2LnpAd-7XPLk-7XPK9-7XPKy-7XPJR-yQF7Z
  
 ## **Day 5| Plymouth Rock**
 
